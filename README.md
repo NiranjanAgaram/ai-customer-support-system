@@ -267,7 +267,7 @@ cd ai-customer-support-system
 ## 📞 **Support & Contact**
 
 ### **Technical Support**
-- **Email**: niranjan@example.com
+- **Email**: niranjanagaram@gmail.com
 - **LinkedIn**: [Niranjan Agaram](https://linkedin.com/in/niranjan-agaram)
 - **GitHub Issues**: [Report bugs/features](https://github.com/niranjanagaram/ai-customer-support-system/issues)
 
